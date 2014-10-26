@@ -1,0 +1,13 @@
+{
+  "name": "crappy-bird",
+  "version": "1.0.0",
+  "description": "Simplified version of Flappy Bird",
+  "main": "app.js",
+  "author": "Liza Carter <lizahcarter@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "^3.3.0",
+    "morgan": "^1.4.0",
+    "serve-static": "^1.7.0"
+  }
+}
