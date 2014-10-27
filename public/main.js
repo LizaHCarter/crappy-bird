@@ -6,7 +6,7 @@ var mainState = {
   preload:function(){
     game.stage.backgroundColor = '#71c5cf';
     game.load.image('bird', '/assets/pug.gif');
-    game.load.image('pipe', '/assets/pipe.png');
+    game.load.image('pipe', '/assets/whitefence.png');
   },
 
   create:function(){
